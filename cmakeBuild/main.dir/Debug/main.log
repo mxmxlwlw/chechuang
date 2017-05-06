@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\program\Cpp\library\opencv-master\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\program\Cpp\library\opencv-master\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\program\Cpp\library\opencv-master\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\program\Cpp\library\opencv-master\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\mx\Desktop\chechuang\main.cpp(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(56): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+C:\Users\mx\Desktop\chechuang\main.cpp(70): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(77): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(79): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(107): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(108): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(109): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(111): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(119): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(120): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(135): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(142): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mx\Desktop\chechuang\main.cpp(143): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.vcxproj -> C:\Users\mx\Desktop\chechuang\cmakeBuild\Debug\main.exe
